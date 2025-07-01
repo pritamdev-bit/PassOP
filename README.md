@@ -11,7 +11,7 @@ A simple password manager built with **Vite**, **React**, and **Tailwind CSS**.
 ## 🚀 Setup
 
 ```bash
-git clone https://github.com/yourusername/password-manager
+git clone https://github.com/pritamdev-bit/PassOP.git
 cd password-manager
 npm install
 npm run dev
